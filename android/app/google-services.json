@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19513178393",
+    "project_id": "sudtogethor",
+    "storage_bucket": "sudtogethor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19513178393:android:21565b852b3753bcac6d88",
+        "android_client_info": {
+          "package_name": "com.ragabaat.sdtogether"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0-gHGlGN81Vvd3kSvUlLZYR2W4IGprgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19513178393:android:b81fc1ac4be45711ac6d88",
+        "android_client_info": {
+          "package_name": "com.ragabaat.usd_togeter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0-gHGlGN81Vvd3kSvUlLZYR2W4IGprgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
